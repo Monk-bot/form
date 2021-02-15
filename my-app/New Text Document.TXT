@@ -1,0 +1,2 @@
+<p class="text white">Value: {{ signupForm.value | json }}</p>
+          <p class="text white">Value: {{ signupForm.valid | json }}</p>
